@@ -19,13 +19,13 @@ If you see an issue with one of my projects please let me know!
 
 🕸️ [`Scanning WWW`](https://github.com/dchansen06/scanning-www) Template files to integrate into your web server so that you can scan from a SANE compatible scanner.
 
-## [Gaucho Racing](https://gauchoracing.com) (public repos)
-All repositories below I have worked on with the Firmware subteam.
+## [Gaucho Racing](https://gauchoracing.com) (Notable public repos)
+All repositories below I have worked on as member of the Firmware subteam.
 
 ### General Infrastructure
 [`CSV 25`](https://github.com/Gaucho-Racing/CSV-25)
 
-### Notable-Contributions of Board Specific Firmware
+### Board Specific Firmware
 [`ECU 25`](https://github.com/Gaucho-Racing/ECU-25)
 [`Dash Panel`](https://github.com/Gaucho-Racing/Dash-Panel-V2-25)
 [`Steering Wheel Panel`](https://github.com/Gaucho-Racing/Steering-V2-25)
