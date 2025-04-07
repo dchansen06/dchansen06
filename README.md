@@ -4,7 +4,7 @@ Class of 2028 in the College of Engineering
 
 Pursuing a Computer Science BS
 ## About
-[LinkedIn](https://linkedin.com/in/daniel-hansen-cs)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-hansen-cs)
 
 Most of my repositories are private (use the public ones at your own risk, with no warranty or liability)
 
