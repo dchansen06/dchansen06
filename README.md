@@ -5,10 +5,13 @@ Class of 2028 in the College of Engineering
 Pursuing a Computer Science BS
 ## About
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-hansen-cs)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/dchansen06)
 
 Most of my repositories are private (use the public ones at your own risk, with no warranty or liability)
 
 If you see an issue with one of my projects please let me know!
+
+(Logo shields from [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile))
 ## Hackathons
 `Vim-with-Friends` at SB Hacks XI - [Devpost](https://devpost.com/software/vim-with) and [Repo](https://github.com/dchansen06/vim-with-friends)
 
