@@ -26,7 +26,7 @@ If you see an issue with one of my projects please let me know!
 All repositories below I have worked on as member of the Firmware subteam.
 
 ### General Infrastructure
-[`Firmware-26`](https://github.com/Gaucho-Racing/Firmware-26) Very much in progress still
+[`Firmware-26`](https://github.com/Gaucho-Racing/Firmware-26) Monorepo
 
 [`CSV 25`](https://github.com/Gaucho-Racing/CSV-25)
 
