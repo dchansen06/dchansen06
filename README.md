@@ -25,12 +25,7 @@ If you see an issue with one of my projects please let me know!
 ## [Gaucho Racing](https://gauchoracing.com) (Notable public repos)
 All repositories below I have worked on as member of the Firmware subteam.
 
-### General Infrastructure
-[`Firmware-26`](https://github.com/Gaucho-Racing/Firmware-26) Monorepo
-
-[`CSV 25`](https://github.com/Gaucho-Racing/CSV-25)
-
-### Board Specific Firmware
-[`ECU 25`](https://github.com/Gaucho-Racing/ECU-25)
-[`Dash Panel`](https://github.com/Gaucho-Racing/Dash-Panel-V2-25)
-[`Steering Wheel Panel`](https://github.com/Gaucho-Racing/Steering-V2-25)
+| Timeframe | Repo | Type | Role |
+| --- | --- | --- | --- |
+| GR26 (Active) | [`Firmware`](https://github.com/Gaucho-Racing/Firmware) | Monorepo | Lead
+| GR25 | [`CSV 25`](https://github.com/Gaucho-Racing/CSV-25)<br/>[`ECU 25`](https://github.com/Gaucho-Racing/ECU-25)<br/>[`Dash Panel`](https://github.com/Gaucho-Racing/Dash-Panel-V2-25)<br/>[`Steering Wheel Panel`](https://github.com/Gaucho-Racing/Steering-V2-25) | Infrastructure<br/>Board<br/>Board<br/>Board | Member |
