@@ -4,8 +4,9 @@ Class of 2028 in the College of Engineering
 
 Pursuing a Computer Science BS
 ## About
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-hansen-cs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-hansen-cs)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/dchansen06)
+[![OrcID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9404-5398)
 
 Most of my repositories are private (use the public ones at your own risk, with no warranty or liability)
 
