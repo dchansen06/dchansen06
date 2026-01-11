@@ -14,6 +14,8 @@ If you see an issue with one of my projects please let me know!
 
 (Logo shields from [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile))
 ## Hackathons
+`Signly` at SB Hacks XII - [Devpost](https://devpost.com/software/signly-x6eo92) and [Repo](https://github.com/DavidUzunov/Hand-Recognition)
+
 `Vim-with-Friends` at SB Hacks XI - [Devpost](https://devpost.com/software/vim-with) and [Repo](https://github.com/dchansen06/vim-with-friends)
 
 ## Notable Projects
