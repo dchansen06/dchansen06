@@ -39,3 +39,9 @@ All repositories below I have worked on as member of the Firmware subteam.
 | --- | --- | --- | --- |
 | Summer 2025 | [iCRco, Inc.](https://icrco.com) | Software Intern | Worked extensively on modernizing the CT software and our DevX, as well as many QoL improvements |
 | Summer 2024 | [Philmont Scout Ranch](https://www.philmontscoutranch.org) | Dining Hall Staff | Worked front of house at the PTC dining hall following food safety standards |
+
+## Articles and Media
+
+[On the road to success: Gaucho Racing competes at the Michigan International Speedway](https://news.ucsb.edu/2025/021992/road-success-gaucho-racing-competes-michigan-international-speedway)
+
+[Gaucho Racing | UC Santa Barbara's Formula SAE Competition Team](https://youtu.be/pV4B4O94_bg)
