@@ -42,8 +42,10 @@ All repositories below I have worked on as member of the Firmware subteam.
 
 ## Articles and Media
 
-[On the road to success: Gaucho Racing competes at the Michigan International Speedway (UCSB's _The Current_)](https://news.ucsb.edu/2025/021992/road-success-gaucho-racing-competes-michigan-international-speedway)
+[Gaucho Racing designs, builds and tests their own Formula SAE racecar for competition (_Daily Nexus_)](https://dailynexus.com/2026-05-29/gaucho-racing-designs-builds-and-tests-their-own-formula-sae-racecar-for-competition/)
 
-[UCSB Sustainability | Community Emergency Response Team (Facebook)](https://www.facebook.com/UCSBSustainability/posts/the-ucsb-sustainability-department-wishes-to-highlight-the-community-emergency-r/1302227228610748/)
+[On the road to success: Gaucho Racing competes at the Michigan International Speedway (_The Current_)](https://news.ucsb.edu/2025/021992/road-success-gaucho-racing-competes-michigan-international-speedway)
 
-[Gaucho Racing | UC Santa Barbara's Formula SAE Competition Team (YouTube)](https://youtu.be/pV4B4O94_bg)
+[UCSB Sustainability | Community Emergency Response Team (_Facebook_)](https://www.facebook.com/UCSBSustainability/posts/the-ucsb-sustainability-department-wishes-to-highlight-the-community-emergency-r/1302227228610748/)
+
+[Gaucho Racing | UC Santa Barbara's Formula SAE Competition Team (_YouTube_)](https://youtu.be/pV4B4O94_bg)
