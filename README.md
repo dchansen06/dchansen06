@@ -30,13 +30,15 @@ All repositories below I have worked on as member of the Firmware subteam.
 
 | Timeframe | Repo | Type | Role |
 | --- | --- | --- | --- |
-| GR26 (Active) | [`Firmware`](https://github.com/Gaucho-Racing/Firmware) | Monorepo | Lead
+| GR26-GR27 (Active) | [`Firmware`](https://github.com/Gaucho-Racing/Firmware) | Monorepo | Lead
 | GR25 | [`CSV 25`](https://github.com/Gaucho-Racing/CSV-25)<br/>[`ECU 25`](https://github.com/Gaucho-Racing/ECU-25)<br/>[`Dash Panel`](https://github.com/Gaucho-Racing/Dash-Panel-V2-25)<br/>[`Steering Wheel Panel`](https://github.com/Gaucho-Racing/Steering-V2-25) | Infrastructure<br/>Board<br/>Board<br/>Board | Member |
 
 ## Employment
 
 | Timeframe | Componany | Role | Description |
 | --- | --- | --- | --- |
+| Summer 2026 | [iCRco, Inc.](https://icrco.com) | Software Intern | Continued work on CT software, working extensively on doctor-patient-radiology interfaces within the [Clarity](https://www.claritypacs.com/) ecosystem |
+| Winter, Spring 2026 | [iCRco, Inc.](https://icrco.com) | (Part Time) Software Intern | Continued work on CT software, expanded to work on larger [Clarity](https://www.claritypacs.com/) ecosystem, full time student |
 | Summer 2025 | [iCRco, Inc.](https://icrco.com) | Software Intern | Worked extensively on modernizing the CT software and our DevX, as well as many QoL improvements |
 | Summer 2024 | [Philmont Scout Ranch](https://www.philmontscoutranch.org) | Dining Hall Staff | Worked front of house at the PTC dining hall following food safety standards |
 
