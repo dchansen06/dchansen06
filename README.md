@@ -44,6 +44,8 @@ All repositories below I have worked on as member of the Firmware subteam.
 
 ## Articles and Media
 
+[Gaucho Racing Accelerates to a Breakthrough Finish (_College of Engineering News_)](https://engineering.ucsb.edu/news/gaucho-racing-accelerates-to-a-breakthrough-finish)
+
 [Gaucho Racing designs, builds and tests their own Formula SAE racecar for competition (_Daily Nexus_)](https://dailynexus.com/2026-05-29/gaucho-racing-designs-builds-and-tests-their-own-formula-sae-racecar-for-competition/)
 
 [On the road to success: Gaucho Racing competes at the Michigan International Speedway (_The Current_)](https://news.ucsb.edu/2025/021992/road-success-gaucho-racing-competes-michigan-international-speedway)
